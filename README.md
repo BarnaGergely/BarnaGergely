@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**BarnaGergely/BarnaGergely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a junior Backend C# Developer from Hungary.**
 
+TODO: 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
